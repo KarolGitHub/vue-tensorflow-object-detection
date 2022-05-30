@@ -32,7 +32,7 @@
           WebCam
         </button>
         <button class="btn btn-secondary" @click="setMode('urlcam')" :class="{ active: mode === 'urlcam' }">
-          URLCam
+          UrlCam
         </button>
       </div>
 
@@ -53,7 +53,7 @@
       </div>
 
       <div v-if="mode === 'urlcam'">
-        <URLCam :model="model" />
+        <UrlCam :model="model" />
       </div>
 
       <div v-if="mode === 'transfer'">

@@ -1,0 +1,242 @@
+{
+  "person": {
+    "color": "#5CDEB6"
+  },
+  "bicycle": {
+    "color": "#6be44b"
+  },
+  "car": {
+    "color": "#305cf1"
+  },
+  "motorcycle": {
+    "color": "#548086"
+  },
+  "airplane": {
+    "color": "#405f3d"
+  },
+  "bus": {
+    "color": "#8dcfcf"
+  },
+  "train": {
+    "color": "#f984a5"
+  },
+  "truck": {
+    "color": "#f54945"
+  },
+  "boat": {
+    "color": "#839b1a"
+  },
+  "traffic light": {
+    "color": "#6e65ac"
+  },
+  "fire hydrant": {
+    "color": "#736a5d"
+  },
+  "stop sign": {
+    "color": "#135f4e"
+  },
+  "parking meter": {
+    "color": "#e7457e"
+  },
+  "bench": {
+    "color": "#e3cc84"
+  },
+  "bird": {
+    "color": "#e3cc84"
+  },
+  "cat": {
+    "color": "#f3cc84"
+  },
+  "dog": {
+    "color": "#e3ccf4"
+  },
+  "horse": {
+    "color": "#e3cc82"
+  },
+  "sheep": {
+    "color": "#effc84"
+  },
+  "cow": {
+    "color": "#f3cc84"
+  },
+  "elephant": {
+    "color": "#e3ccf4"
+  },
+  "bear": {
+    "color": "#ffffff"
+  },
+  "zebra": {
+    "color": "#011asf"
+  },
+  "giraffe": {
+    "color": "#fcf"
+  },
+  "backpack": {
+    "color": "#f11"
+  },
+  "umbrella": {
+    "color": "#f12"
+  },
+  "handbag": {
+    "color": "#f43"
+  },
+  "tie": {
+    "color": "5CDEB6"
+  },
+  "suitcase": {
+    "color": "5CDEB6"
+  },
+  "frisbee": {
+    "color": "5CDEB6"
+  },
+  "skis": {
+    "color": "5CDEB6"
+  },
+  "snowboard": {
+    "color": "5CDEB6"
+  },
+  "ball": {
+    "color": "5CDEB6"
+  },
+  "kite": {
+    "color": "5CDEB6"
+  },
+  "baseball bat": {
+    "color": "5CDEB6"
+  },
+  "baseball glove": {
+    "color": "5CDEB6"
+  },
+  "skateboard": {
+    "color": "5CDEB6"
+  },
+  "surfboard": {
+    "color": "5CDEB6"
+  },
+  "tennis racket": {
+    "color": "5CDEB6"
+  },
+  "bottle": {
+    "color": "5CDEB6"
+  },
+  "wine glass": {
+    "color": "5CDEB6"
+  },
+  "cup": {
+    "color": "5CDEB6"
+  },
+  "fork": {
+    "color": "5CDEB6"
+  },
+  "knife": {
+    "color": "5CDEB6"
+  },
+  "spoon": {
+    "color": "5CDEB6"
+  },
+  "bowl": {
+    "color": "5CDEB6"
+  },
+  "banana": {
+    "color": "5CDEB6"
+  },
+  "apple": {
+    "color": "5CDEB6"
+  },
+  "sandwich": {
+    "color": "5CDEB6"
+  },
+  "orange": {
+    "color": "5CDEB6"
+  },
+  "broccoli": {
+    "color": "5CDEB6"
+  },
+  "carrot": {
+    "color": "5CDEB6"
+  },
+  "hot dog": {
+    "color": "5CDEB6"
+  },
+  "pizza": {
+    "color": "5CDEB6"
+  },
+  "donut": {
+    "color": "5CDEB6"
+  },
+  "cake": {
+    "color": "5CDEB6"
+  },
+  "chair": {
+    "color": "5CDEB6"
+  },
+  "couch": {
+    "color": "5CDEB6"
+  },
+  "potted plant": {
+    "color": "5CDEB6"
+  },
+  "bed": {
+    "color": "5CDEB6"
+  },
+  "dining table": {
+    "color": "5CDEB6"
+  },
+  "toilet": {
+    "color": "5CDEB6"
+  },
+  "tv": {
+    "color": "5CDEB6"
+  },
+  "laptop": {
+    "color": "5CDEB6"
+  },
+  "mouse": {
+    "color": "5CDEB6"
+  },
+  "remote": {
+    "color": "5CDEB6"
+  },
+  "keyboard": {
+    "color": "5CDEB6"
+  },
+  "cell phone": {
+    "color": "5CDEB6"
+  },
+  "microwave": {
+    "color": "5CDEB6"
+  },
+  "oven": {
+    "color": "5CDEB6"
+  },
+  "toaster": {
+    "color": "5CDEB6"
+  },
+  "sink": {
+    "color": "5CDEB6"
+  },
+  "refrigerator": {
+    "color": "5CDEB6"
+  },
+  "book": {
+    "color": "5CDEB6"
+  },
+  "clock": {
+    "color": "5CDEB6"
+  },
+  "vase": {
+    "color": "5CDEB6"
+  },
+  "scissors": {
+    "color": "5CDEB6"
+  },
+  "teddy bear": {
+    "color": "5CDEB6"
+  },
+  "hair drier": {
+    "color": "5CDEB6"
+  },
+  "toothbrush": {
+    "color": "5CDEB6"
+  }
+}

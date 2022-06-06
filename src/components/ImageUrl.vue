@@ -35,8 +35,8 @@ export default class ImageUrl extends Vue {
 
       ctx.clearRect(0, 0, ctx.canvas.width, ctx.canvas.height);
 
-      ctx.canvas.width = Math.min(800, e.path[0].width);
-      ctx.canvas.height = Math.min(600, e.path[0].height);
+      ctx.canvas.width = Math.min(window.innerWidth, e.path[0].width);
+      ctx.canvas.height = Math.min(window.innerHeight, e.path[0].height);
 
       ctx.drawImage($image, 0, 0);
 

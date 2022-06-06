@@ -9,7 +9,7 @@ export function drawPredictions(predictions, ctx, videoResolution = { width: 960
   const font = '18px sans-serif';
   ctx.font = font;
   ctx.textBaseline = 'top';
-  console.log(predictions);
+  // console.log(predictions);
   predictions.forEach((prediction) => {
     let [x, y, width, height] = prediction['bbox'];
     x /= widthRatio;

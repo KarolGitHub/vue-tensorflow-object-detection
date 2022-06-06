@@ -42,8 +42,9 @@ export default class ImageUpload extends Vue {
       const ctx = <CanvasRenderingContext2D>canvas.getContext('2d');
 
       const path = e.path || (e.composedPath && e.composedPath());
-      ctx.canvas.width = Math.min(800, path[0].width);
-      ctx.canvas.height = Math.min(600, path[0].height);
+
+      ctx.canvas.width = Math.min(window.innerWidth, path[0].width);
+      ctx.canvas.height = Math.min(window.innerHeight, path[0].height);
 
       ctx.clearRect(0, 0, ctx.canvas.width, ctx.canvas.height);
       ctx.drawImage($image, 0, 0);
